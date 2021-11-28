@@ -9,8 +9,5 @@ Printers covered currently include:
 - [Tri-Zero](https://github.com/zruncho3d/tri-zero)
 - [Micron](https://github.com/hartk1213/Micron)
 - [Salad Fork](https://github.com/Yeriwyn/Salad_Fork)
-
-Still to be added properly:
-
 - [Tiny-M](https://github.com/gsl12/Tiny-M)
 - [Tiny-T](https://github.com/thiagolocatelli/Voron/tree/master/Tiny-T)
