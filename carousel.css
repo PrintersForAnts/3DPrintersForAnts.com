@@ -1,0 +1,104 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h1 {
+  font-weight: 600;
+  font-size: 36pt;
+  text-align: right;
+  padding-top: 0.5em;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+/* rtl:begin:ignore */
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+/* rtl:end:ignore */
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 2rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  margin-top: 1rem;
+  font-weight: 300;
+  line-height: 1;
+  /* rtl:remove */
+  letter-spacing: -.05rem;
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+  /* Bump up size of carousel content */
+  .marketing h1 {
+    font-size: 64pt;
+  }
+  .featurette-divider {
+    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  }
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .marketing h1 {
+    font-size: 72pt;
+  }
+  .featurette-divider {
+    margin: 6rem 0; /* Space out the Bootstrap <hr> more */
+  }
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  p, h1, h2 {
+    color: #808080 !important;
+  }
+  .text-muted {
+    color: #404040 !important;
+  }
+
+}
+@media (prefers-color-scheme: light) {
+  p, h1, h2 {
+    color: #404040 !important;
+  }
+  .text-muted {
+    color: #808080 !important;
+  }
+}
