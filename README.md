@@ -4,6 +4,7 @@ This is the repo for the website https://3dprintersforants.com/ which provides a
 
 Printers covered currently include:
 
+- [Double Dragon](https://github.com/zruncho3d/double-dragon)
 - [Crucible](https://github.com/Maverick-3D/Crucible)
 - [F-Zero](https://github.com/zruncho3d/f-zero)
 - [Tri-Zero](https://github.com/zruncho3d/tri-zero)
