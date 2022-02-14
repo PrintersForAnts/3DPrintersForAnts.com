@@ -3,8 +3,6 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
   color: #5a5a5a;
 }
 
@@ -34,6 +32,16 @@ body {
 /* rtl:end:ignore */
 
 
+/* Navbar
+------------------------- */
+
+header, .navbar, .navbar-brand {
+  background-color: #404040;
+  color: #808080;
+  margin: 0 auto;
+  text-align: center;
+}
+
 /* Featurettes
 ------------------------- */
 
@@ -56,8 +64,8 @@ body {
 
 @media (min-width: 40em) {
   /* Bump up size of carousel content */
-  .marketing h1 {
-    font-size: 64pt;
+  .navbar-brand, .marketing h1 {
+    font-size: 64pt !important;
   }
   .featurette-divider {
     margin: 5rem 0; /* Space out the Bootstrap <hr> more */
@@ -74,8 +82,8 @@ body {
 }
 
 @media (min-width: 62em) {
-  .marketing h1 {
-    font-size: 72pt;
+  .navbar-brand, .marketing h1 {
+    font-size: 72pt !important;
   }
   .featurette-divider {
     margin: 6rem 0; /* Space out the Bootstrap <hr> more */
