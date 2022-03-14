@@ -11,4 +11,4 @@ Printers covered currently include:
 - [Micron](https://github.com/hartk1213/Micron)
 - [Salad Fork](https://github.com/Yeriwyn/Salad_Fork)
 - [Tiny-M](https://github.com/gsl12/Tiny-M)
-- [Tiny-T](https://github.com/thiagolocatelli/Voron/tree/master/Tiny-T)
+- [Tiny-T](https://github.com/PrintersForAnts/TinyT)
