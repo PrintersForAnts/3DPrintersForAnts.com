@@ -10,6 +10,7 @@ Printers covered currently include:
 - [F-Zero](https://github.com/zruncho3d/f-zero)
 - [Tri-Zero](https://github.com/zruncho3d/tri-zero)
 - [Pandora's Box](https://github.com/masturmynd/pandoras_box)
+- [Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
 - [Micron](https://github.com/hartk1213/Micron)
 - [Salad Fork](https://github.com/Yeriwyn/Salad_Fork)
 - [Tiny-M](https://github.com/gsl12/Tiny-M)
